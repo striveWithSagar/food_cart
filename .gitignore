@@ -6,7 +6,7 @@
 *.swp
 .buildlog/
 .history
-
+firebase.json
 
 
 # Flutter repo-specific
